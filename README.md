@@ -17,9 +17,11 @@ Este projeto tem como objetivo desenvolver um modelo de classificação para ide
 4. **Avaliação:** O modelo foi avaliado utilizando a técnica de cross-validation  de 10 folds. As métricas de acurácia, precisão, recall e F1-score e Curva ROC .
 
 **Confusion Matrix**
+
 ![image](https://github.com/user-attachments/assets/9a98d068-c751-4564-a592-62140331eaaa)
 
 **Cruva Roc**
+
 ![image](https://github.com/user-attachments/assets/0f3d51a1-2a1a-43ca-8b32-1eb60368eb6e)
 
 **Resultados:**
