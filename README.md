@@ -20,13 +20,13 @@ Este projeto tem como objetivo desenvolver um modelo de classificação para ide
 
 ![image](https://github.com/user-attachments/assets/9a98d068-c751-4564-a592-62140331eaaa)
 
-**Cruva Roc**
+**Curva Roc**
 
 ![image](https://github.com/user-attachments/assets/0f3d51a1-2a1a-43ca-8b32-1eb60368eb6e)
 
 **Resultados:**
 
-O modelo apresentou uma acurácia de 99.6% na previsão de inadimplência. As variáveis mais importantes para a classificação foram renda, idade e histórico de crédito. A figura abaixo mostra a matriz de confusão do modelo:
+O modelo apresentou uma acurácia de 97% na previsão de inadimplência. As variáveis mais importantes para a classificação foram renda, idade e histórico de crédito. A figura abaixo mostra a matriz de confusão do modelo:
 
 **Limitações:**
 
